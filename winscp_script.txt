@@ -1,0 +1,11 @@
+open ftp://u636310276.harryilhamdi:Vkhjhz12hf!@ftp.ess-retail.online/ -implicit=0
+cd /public_html
+lcd "C:\Users\Harry\OneDrive - EIGERINDO MULTI PRODUK INDUSTRI, PT\Desktop\Morrigan In Depth Report\Action Plan Web App"
+put index.html
+put hub.html
+put app.js
+put data.js
+put css\
+put js\
+put apps\
+exit
